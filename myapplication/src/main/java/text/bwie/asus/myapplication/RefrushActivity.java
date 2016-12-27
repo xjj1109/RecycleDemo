@@ -10,7 +10,7 @@ import android.support.v7.widget.RecyclerView;
 import java.util.ArrayList;
 
 import adapter.RefushAdapter;
-
+//
 public class RefrushActivity extends AppCompatActivity {
 
     private SwipeRefreshLayout swipeRefreshLayout;
