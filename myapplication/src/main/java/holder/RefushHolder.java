@@ -9,7 +9,6 @@ import text.bwie.asus.myapplication.R;
 /**
  * Created by asus on 2016/12/27.
  */
-//
 public class RefushHolder extends RecyclerView.ViewHolder {
 
     public final TextView tv;
